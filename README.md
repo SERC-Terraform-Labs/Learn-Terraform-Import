@@ -1,5 +1,7 @@
 ## Learn Terraform Import
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/.../...)
+
 Learn what Terraform import is and how to use it.
 
 Follow along with the [Learn Guide](https://learn.hashicorp.com/terraform/state/import) at
