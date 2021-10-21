@@ -5,9 +5,11 @@
 Learn what Terraform import is and how to use it.
 
 Follow along with the [Learn Guide](https://learn.hashicorp.com/terraform/state/import) at
-HashiCorp Learn.
+HashiCorp Learn. **Do not** clone the example repository. The files are already included here.
 
 ### Install prerequisites
+
+(These are already pre-installed in Gitpod workspace.)
 
 1. Terraform: https://www.terraform.io/downloads.html
 1. Docker: https://docs.docker.com/get-docker/
